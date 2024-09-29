@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <nav className="bg-purple-600 p-4 flex justify-between items-center">
+    <nav className="bg-purple-600 p-4 flex justify-center items-center">
       <div className="flex items-center">
         <img
           src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png"
